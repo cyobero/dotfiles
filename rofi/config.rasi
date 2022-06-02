@@ -1,0 +1,8 @@
+/** Basic config file **/
+
+configuration {
+  modi: "run,windowcd,window,filebrowser";
+  font:               "Azeret Mono 11";
+  show-icons:         false;
+  icon-theme:         "Gruvbox";
+}
